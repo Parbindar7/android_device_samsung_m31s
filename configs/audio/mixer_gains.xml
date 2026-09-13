@@ -4,11 +4,13 @@
 	<!-- Output volume stage -->
 	<!-- media playback volume -->
 	<path name="gain-media-handset">
-		<ctl name="DAC2 Playback Volume" value="164 164"/>
+		<ctl name="DAC2 Playback Volume" value="175 175"/>
 		<ctl name="Mono Playback Volume" value="31"/>
 	</path>
 
 	<path name="gain-media-speaker">
+		<ctl name="DAC2 Playback Volume" value="175 175"/>
+		<ctl name="Mono Playback Volume" value="31"/>
 	</path>
 
 	<path name="gain-media-headset">
