@@ -79,10 +79,13 @@
 
 	<!-- Communication playback volume -->
 	<path name="gain-communication-handset">
-		<ctl name="DAC2 Playback Volume" value="169 169"/>
+		<ctl name="DAC2 Playback Volume" value="175 175"/>
+		<ctl name="Mono Playback Volume" value="31"/>
 	</path>
 
 	<path name="gain-communication-speaker">
+		<ctl name="DAC2 Playback Volume" value="175 175"/>
+		<ctl name="Mono Playback Volume" value="31"/>
 	</path>
 
 	<path name="gain-communication-gaming-speaker">
