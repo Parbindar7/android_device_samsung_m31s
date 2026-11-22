@@ -51,9 +51,6 @@ vendor/firmware/setfile_gc5035_macro.bin
 vendor/firmware/setfile_imx616.bin
 vendor/firmware/setfile_imx682.bin
 
-## DAP
-vendor/lib/soundfx/libswdap.so
-
 ## Audio Firmware
 vendor/firmware/APBargeIn_AUDIO_SLSI.bin
 vendor/firmware/APBiBF_AUDIO_SLSI.bin
